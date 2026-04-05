@@ -1,3 +1,5 @@
 Gitの練習をします
 変更します
 さらに変更します。
+・git add
+・git commit
